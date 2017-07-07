@@ -1,2 +1,5 @@
 avro
 pika
+enum34
+python-dateutil
+iso8601
